@@ -1,13 +1,18 @@
-# (replace-me: Exercise title)
+# Contribute to Open Source Repositories ☁️🖋️
 
-_(replace-me: One-line description of the exercise)_
+_Learn how to get involved and contribute to Open Source projects_
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **Who is this for**: Compliance Managers, First-time Open Source contributors
+- **What you'll learn**: Navigating GitHub repositories and finding areas you can make an impact
+- **What you'll build**: You'll update documentation and assign yourself to a GitHub issue
 - **Prerequisites**:
+  - [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
+  - [Review Pull-requests](https://github.com/skills/review-pull-requests)
+  - Introduction to GitHub Issues
+  - Introduction to Git Terminology
+  - [Connect the dots](https://github.com/skills/connect-the-dots)
   - (replace-me: Prerequisite skill/exercise)
   - (replace-me: Other prerequisites)
 
