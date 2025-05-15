@@ -8,21 +8,23 @@ _Learn how to get involved and contribute to Open Source projects_
 - **What you'll learn**: Navigating GitHub repositories and finding areas you can make an impact
 - **What you'll build**: You'll update documentation and assign yourself to a GitHub issue
 - **Prerequisites**:
-  - [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
-  - [Review Pull-requests](https://github.com/skills/review-pull-requests)
-  - Introduction to GitHub Issues
-  - Introduction to Git Terminology
-  - [Connect the dots](https://github.com/skills/connect-the-dots)
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+  - :octocat: [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
+  - :octocat: [Review Pull-requests](https://github.com/skills/review-pull-requests)
+  - :octocat: [Introduction to GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart).
+  - :octocat: [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+  - :octocat: [Connect the dots in Git Repositories](https://github.com/skills/connect-the-dots)
+  - :octocat: [How to Contribute to Open Source Projects](https://opensource.guide/how-to-contribute/)
+    <!-- (replace-me: Prerequisite skill/exercise) -->
+ <!-- - (replace-me: Other prerequisites) -->
 
 - **How long**: This exercise takes less than (replace-me: estimated time) to complete.
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+1. Create a directory structure that will templatize your workflow. ♻️
+2. Open a GitHub issue and create a Pull Request that address the issue. :octocat:
+3. Contribute to an [Open Source](https://opensourcefriday.com/) project.💻
+4. Learn how to respond to [GitHub issues](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) and communicate using Markdown as your superpower. 🦸🪄 
 
 
 ### How to start this exercise
